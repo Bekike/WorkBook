@@ -5,31 +5,53 @@
 ### Data structures
 
 #### What is the purpose of a list (array in some programming languages) data structure? Name some methods of it!
+-
 #### What is the difference between a list/array and a set?
+-
 #### What is the purpose and methods of a dictionary/map data structure?
+-
 
 ### Algorithms
 
 #### Fibonacci sequences. Write a method (or pseudo code), that generates the Fibonacci sequences.
+-
 #### How do you find a max value in a list/array if you can’t use any built-in functions?
+-
 #### How do you find the average of values in a list/array if you can’t use any built-in functions?
+-
 #### What do we call an *in-place* sort?
+-
 #### Explain an algorithm which sorts a list!
+-
 
 ### Programming paradigms - procedural
 
 #### What is the call stack?
+-
 #### What is “Stack overflow”?
+- 
 #### What are the main parts of a function?
+-
 
 ### Programming languages - Python  
 #### How do you use a dictionary in Python?
+- Kapcsos zarojellel / "{}"
 #### What does it mean that an object is immutable in Python?
+- Create the object and assign some value to it, you can't modify that value.
 #### What is conditional expression in Python?
+- 
 #### What are different types of arguments in Python?
+- default arguments.
+- keyword arguments.
+- positional arguments.
+- arbitrary positional arguments.
+- arbitrary keyword arguments.
 #### What is variable shadowing? (context: variable scope)
+- When a variable "hides" another variable with the same name. 
 #### What can happen if you try to delete/drop/add an item from a List, while you are iterating over it in Python?
+- 
 #### What is the "golden rule" of variable scoping in Python (context: LEGB)? What is the lifetime of variables?
+- Understandable names. 
 #### If you need to access the iterator variable after a for loop, how would you do it in Python?
 #### What type of elements can a list contain in Python?
 #### What is slice operator in Python and how to use?
