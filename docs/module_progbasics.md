@@ -5,9 +5,9 @@
 ### Data structures
 
 #### What is the purpose of a list (array in some programming languages) data structure? Name some methods of it!
--
+- Depending on the language, array types may overlap (or be identified with) other data types that describe aggregates of values, such as lists and strings. Array types are often implemented by array data structures, but sometimes by other means, such as hash tables, linked lists, or search trees.[2] In Python, the built-in array data structure is a list.
 #### What is the difference between a list/array and a set?
--
+- List is an ordered sequence of elements whereas Set is a distinct list of elements which is unordered.
 #### What is the purpose and methods of a dictionary/map data structure?
 -
 
