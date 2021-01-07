@@ -9,12 +9,12 @@
 #### What is the difference between a list/array and a set?
 - List is an ordered sequence of elements whereas Set is a distinct list of elements which is unordered.
 #### What is the purpose and methods of a dictionary/map data structure?
--
+- 
 
 ### Algorithms
 
 #### Fibonacci sequences. Write a method (or pseudo code), that generates the Fibonacci sequences.
--
+- 
 #### How do you find a max value in a list/array if you can’t use any built-in functions?
 -  def maximum(items, default=None):
     iterator = iter(items)
@@ -33,11 +33,11 @@
 ### Programming paradigms - procedural
 
 #### What is the call stack?
--
-#### What is “Stack overflow”?
 - 
+#### What is “Stack overflow”?
+-  betelt a stack (elore meghatarozott mennyiseg[atmeneti tarolo])
 #### What are the main parts of a function?
--
+- 
 
 ### Programming languages - Python  
 #### How do you use a dictionary in Python?
@@ -71,7 +71,7 @@
 #### What does the + operator mean when used with strings in Python?
 -
 #### Explain f strings in Python?
--
+- 
 #### Name 4 iterable types in Python!
 -
 #### What is the difference between list/set/dictionary comprehension and a generator expression in Python?
@@ -124,9 +124,13 @@
 ### Error handling
 
 #### What is exception handling?
+- 
 #### What are the basics of exception handling in Python?
+- 
 #### In which case should we catch an exception? Why?
+- 
 #### What can/should we do with an exception in the ‘except’ block?
+- 
 #### What does the else and finally statement do in a try-except block in Python?
 
 ## Software Development Methodologies
@@ -139,13 +143,25 @@
 ### Unix
 
 #### What is UNIX and what is Linux?
+-
 #### What do we call the shell in Linux?
+- shell: alap parancsok ertelmezi, in root what are there, gep kommunikacio
 #### What does root means in a Linux environment?
+- 
 #### How do you access your personal files in Linux?
+- 
 #### How can you install an application in Linux?
+- 
 #### What is package management in Linux, what are repositories?
+- 
 #### How do you navigate in the filesystem with the command line?
+- 
 #### What does the following commands do: mkdir, rm, cat, cp, touch?
+- 
 #### How can you look up what does a command do in Linux if you have no internet connection?
+- 
 #### What does the following commands do: head, tail, more, less?
+- less: lockfile -> last 10 line write out (less -n "file")
+    head: 
 #### How do you download a file from internet using the terminal?
+- 
