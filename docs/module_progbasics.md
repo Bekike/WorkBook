@@ -16,13 +16,19 @@
 #### Fibonacci sequences. Write a method (or pseudo code), that generates the Fibonacci sequences.
 -
 #### How do you find a max value in a list/array if you can’t use any built-in functions?
--
+-  def maximum(items, default=None):
+    iterator = iter(items)
+    m = next(iterator)
+    for item in iterator:
+        if item > m:
+            m = item
+    return m
 #### How do you find the average of values in a list/array if you can’t use any built-in functions?
--
+- print sum(l) / float(len(l))
 #### What do we call an *in-place* sort?
--
+- Sort in place means to sort an existing list by modifying the element order directly within the list. The opposite is leaving the original list as is and create a new list with the elements in order.
 #### Explain an algorithm which sorts a list!
--
+- 
 
 ### Programming paradigms - procedural
 
