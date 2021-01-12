@@ -136,7 +136,7 @@ values
 ### Error handling
 
 #### What is exception handling?
-- 
+-  exception handling is the process of responding to the occurrence of exceptions
 #### What are the basics of exception handling in Python?
 - exceptions can be handled using a try statement. can raise an exception is placed inside the try clause. 
 #### In which case should we catch an exception? Why?
